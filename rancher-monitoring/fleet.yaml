@@ -17,4 +17,4 @@ diff:
       operations:
         - {"op":"remove", "path":"/webhooks"}
 dependsOn:
-  - name: monitoring-rancher-monitoring-crd
+  - name: rancher-monitoring-crd
